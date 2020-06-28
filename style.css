@@ -1,0 +1,21 @@
+title {
+	color: blue;
+}
+
+body {
+	background: gray;
+}
+
+input {
+	background: green;
+	color: white;
+	font-size: 16pt;
+	width: 200px;
+	height: 45px;
+}
+
+input:hover {
+	background: lightgreen;
+	color: #FF00FF;
+	font-size: 20pt;
+}
